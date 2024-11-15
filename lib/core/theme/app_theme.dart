@@ -5,10 +5,10 @@ abstract class AppTheme {
     appBarTheme: const AppBarTheme(
       backgroundColor: Colors.white,
       foregroundColor: Colors.black,
-      elevation: 0,
+      elevation: 1,
     ),
     colorScheme: const ColorScheme.light(
-      surface: Color.fromARGB(26, 23, 184, 247),
+      surface: Color.fromARGB(26, 13, 184, 247),
     ),
   );
 
