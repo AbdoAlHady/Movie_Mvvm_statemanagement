@@ -1,0 +1,1 @@
+ D:\\flutter_projects\\movie_mvvm_state_management\\.dart_tool\\flutter_build\\aee81b016ca792f959e0a071f0ac7a2e\\native_assets.yaml: 
